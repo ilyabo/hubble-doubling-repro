@@ -1,0 +1,15 @@
+:root {
+  background: #000;
+}
+
+#root {
+}
+
+#deckgl-overlay {
+  border: 1px solid #ccc;
+}
+
+.controls > div {
+  position: absolute;
+  left: 500px;
+}
